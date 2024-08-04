@@ -1,0 +1,19 @@
+{
+  "name": "com.eddylib.statssystem",
+  "version": "1.0.0",
+  "displayName": "EddyLib - Stats System",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "eddylib",
+    "utility"
+  ],
+  "author": {
+    "name": "eddy0820"
+  },
+  "dependencies": {
+    "com.dbrizov.naughtyattributes": ""
+  }
+}
