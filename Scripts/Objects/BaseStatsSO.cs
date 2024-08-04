@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EddyLib.GameSettingsSystem
+namespace EddyLib.Stats
 {
 
-[CreateAssetMenu(fileName = "New Base Stats", menuName = "Stats/Base Stats")]
+[CreateAssetMenu(fileName = "New Base Stats", menuName = "EddyLib/Stats/Base Stats")]
 public class BaseStatsSO : ScriptableObject
 {
     [SerializeField] List<BaseStat> stats = new List<BaseStat>();

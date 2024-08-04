@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using NaughtyAttributes;
 
-namespace EddyLib.GameSettingsSystem
+namespace EddyLib.Stats
 {
 
 public abstract class Stats : MonoBehaviour

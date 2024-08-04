@@ -1,9 +1,9 @@
 using UnityEngine;
 
-namespace EddyLib.GameSettingsSystem
+namespace EddyLib.Stats
 {
 
-[CreateAssetMenu(fileName = "New Stat Type", menuName = "Stats/Stat Type")]
+[CreateAssetMenu(fileName = "New Stat Type", menuName = "EddyLib/Stats/Stat Type")]
 public class StatTypeSO : ScriptableObject
 {
     [SerializeField] new string name = "New Stat Type Name";

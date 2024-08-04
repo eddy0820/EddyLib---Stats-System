@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using UnityEngine;
 
-namespace EddyLib.GameSettingsSystem
+namespace EddyLib.Stats
 {
 
 [Serializable]

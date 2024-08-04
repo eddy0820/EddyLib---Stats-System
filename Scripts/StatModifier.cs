@@ -1,4 +1,4 @@
-namespace EddyLib.GameSettingsSystem
+namespace EddyLib.Stats
 {
 
 public class StatModifier
